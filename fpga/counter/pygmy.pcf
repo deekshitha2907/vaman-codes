@@ -1,0 +1,13 @@
+set_io a	16
+set_io b	21
+set_io c	42
+set_io d	38
+set_io e	60
+set_io f	39
+set_io g	34
+
+
+set_io redled	61
+
+
+
