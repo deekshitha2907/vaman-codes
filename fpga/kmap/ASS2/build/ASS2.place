@@ -1,0 +1,19 @@
+Netlist_File: ASS2.net Netlist_ID: SHA256:4855f56a02b83059abdc84d3059f3c003385059ba4569f73182ecc9d8a8c97cb
+Array size: 39 x 35 logic blocks
+
+#block name	x	y	subblk	block number
+#----------	--	--	------	------------
+a_LUT4_O.c_frag	22	27	0	#0
+$iopadmap$ASS2.d	30	32	0	#1
+$iopadmap$ASS2.e	22	3	0	#2
+$iopadmap$ASS2.f	24	32	0	#3
+$iopadmap$ASS2.a	3	29	0	#4
+A		1	31	0	#5
+D		20	3	0	#6
+C		28	32	0	#7
+B		26	32	0	#8
+$iopadmap$ASS2.b	2	31	0	#9
+$iopadmap$ASS2.c	32	32	0	#10
+$iopadmap$ASS2.g	22	32	0	#11
+$false		3	1	0	#12
+$true		2	1	0	#13

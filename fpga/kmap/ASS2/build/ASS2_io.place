@@ -1,0 +1,13 @@
+#Block Name x   y   z    pcf_line
+#----- --  --  -    ----
+$iopadmap$ASS2.a   3  29  0  # set_io a	16
+$iopadmap$ASS2.b   2  31  0  # set_io b	21
+$iopadmap$ASS2.c  32  32  0  # set_io c	42
+$iopadmap$ASS2.d  30  32  0  # set_io d	38
+$iopadmap$ASS2.e  22   3  0  # set_io e	60
+$iopadmap$ASS2.f  24  32  0  # set_io f	39
+$iopadmap$ASS2.g  22  32  0  # set_io g	34
+D      20   3  0  # set_io D	61
+C      28  32  0  # set_io C	36
+B      26  32  0  # set_io B	37
+A       1  31  0  # set_io A	20
